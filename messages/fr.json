@@ -27,11 +27,11 @@
       },
       "wasedaUndergrad": {
         "period": "Université Waseda, Faculté des sciences humaines",
-        "description": "Diplômé en trois ans (graduation anticipée). Étude de la cognition humaine, du comportement et de la société dans un cadre interdisciplinaire."
+        "description": "Diplômé en trois ans (graduation anticipée). Lauréat de la Bourse commémorative Okuma (sélectionné 3 années consécutives). Membre du Network Information Systems Laboratory. Étude de la cognition humaine, du comportement et de la société dans un cadre interdisciplinaire."
       },
       "wasedaGrad": {
         "period": "Université Waseda, École doctorale des sciences humaines (Master)",
-        "description": "Actuellement inscrit. Recherche sur la conduite autonome et le comportement humain, centrée sur l'Interaction Homme-Machine (IHM)."
+        "description": "Actuellement inscrit. Membre du Network Information Systems Laboratory. Recherche sur la conduite autonome et le comportement humain, centrée sur l'Interaction Homme-Machine (IHM)."
       }
     },
     "values": {
@@ -104,7 +104,8 @@
       "title": "Articles Note et abonnement mensuel",
       "description": "Je propose des articles payants et des abonnements mensuels sur le thème de l'application des connaissances académiques, de l'IHM et de la vie quotidienne.",
       "sponsor": "Les sponsors sont également les bienvenus",
-      "cta": "Lire sur Note"
+      "cta": "Lire sur Note",
+      "url": "https://note.com/fancy_quince8671"
     }
   },
   "contact": {

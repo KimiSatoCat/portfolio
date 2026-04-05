@@ -27,11 +27,11 @@
       },
       "wasedaUndergrad": {
         "period": "早稻田大學 人間科學部",
-        "description": "提前三年畢業。跨領域學習人類認知、行為與社會，培養了跨學科的研究視野。"
+        "description": "提前三年畢業。獲得大隈紀念獎學金（連續3年獲選），隸屬於網路資訊系統學研究室。跨領域學習人類認知、行為與社會，培養了跨學科的研究視野。"
       },
       "wasedaGrad": {
         "period": "早稻田大學研究所 人間科學研究科 碩士課程",
-        "description": "在學中。以人機互動（HCI）為核心，從事自動駕駛與人類行為的研究。"
+        "description": "在學中。隸屬於網路資訊系統學研究室。以人機互動（HCI）為核心，從事自動駕駛與人類行為的研究。"
       }
     },
     "values": {
@@ -104,7 +104,8 @@
       "title": "Note付費文章與月費會員",
       "description": "以學術知識 x HCI x 日常應用為主題，提供付費文章和月費會員服務。",
       "sponsor": "也在招募贊助商",
-      "cta": "閱讀Note"
+      "cta": "閱讀Note",
+      "url": "https://note.com/fancy_quince8671"
     }
   },
   "contact": {

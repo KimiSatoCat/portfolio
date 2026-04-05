@@ -27,11 +27,11 @@
       },
       "wasedaUndergrad": {
         "period": "Waseda-Universität, Fakultät für Humanwissenschaften",
-        "description": "Abschluss in drei Jahren (vorzeitiger Abschluss). Studium der menschlichen Kognition, des Verhaltens und der Gesellschaft in einem interdisziplinären Rahmen."
+        "description": "Abschluss in drei Jahren (vorzeitiger Abschluss). Erhalt des Okuma-Gedächtnisstipendiums (3 Jahre in Folge ausgewählt). Mitglied des Network Information Systems Laboratory. Studium der menschlichen Kognition, des Verhaltens und der Gesellschaft in einem interdisziplinären Rahmen."
       },
       "wasedaGrad": {
         "period": "Waseda-Universität, Graduiertenschule für Humanwissenschaften (Master)",
-        "description": "Derzeit eingeschrieben. Forschung zu autonomem Fahren und menschlichem Verhalten mit Schwerpunkt auf Mensch-Computer-Interaktion (HCI)."
+        "description": "Derzeit eingeschrieben. Mitglied des Network Information Systems Laboratory. Forschung zu autonomem Fahren und menschlichem Verhalten mit Schwerpunkt auf Mensch-Computer-Interaktion (HCI)."
       }
     },
     "values": {
@@ -104,7 +104,8 @@
       "title": "Note-Artikel & Monatliche Mitgliedschaft",
       "description": "Ich biete kostenpflichtige Artikel und monatliche Mitgliedschaften zum Thema Anwendung akademischen Wissens, HCI und Alltag an.",
       "sponsor": "Sponsoren sind ebenfalls willkommen",
-      "cta": "Auf Note lesen"
+      "cta": "Auf Note lesen",
+      "url": "https://note.com/fancy_quince8671"
     }
   },
   "contact": {

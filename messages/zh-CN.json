@@ -27,11 +27,11 @@
       },
       "wasedaUndergrad": {
         "period": "早稻田大学 人间科学部",
-        "description": "提前三年毕业。跨领域学习人类认知、行为与社会，培养了学科交叉的研究视野。"
+        "description": "提前三年毕业。获得大隈纪念奖学金（连续3年获得），隶属于网络信息系统学研究室。跨领域学习人类认知、行为与社会，培养了学科交叉的研究视野。"
       },
       "wasedaGrad": {
         "period": "早稻田大学研究生院 人间科学研究科 硕士课程",
-        "description": "在读中。以人机交互（HCI）为核心，从事自动驾驶与人类行为的研究。"
+        "description": "在读中。隶属于网络信息系统学研究室。以人机交互（HCI）为核心，从事自动驾驶与人类行为的研究。"
       }
     },
     "values": {
@@ -104,7 +104,8 @@
       "title": "Note付费文章与月度会员",
       "description": "以学术知识 x HCI x 日常应用为主题，提供付费文章和月度会员服务。",
       "sponsor": "也在招募赞助商",
-      "cta": "阅读Note"
+      "cta": "阅读Note",
+      "url": "https://note.com/fancy_quince8671"
     }
   },
   "contact": {

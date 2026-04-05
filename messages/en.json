@@ -27,11 +27,11 @@
       },
       "wasedaUndergrad": {
         "period": "Waseda University, School of Human Sciences",
-        "description": "Graduated in three years (early graduation). Studied human cognition, behavior, and society in an interdisciplinary framework."
+        "description": "Graduated in three years (early graduation). Received the Okuma Memorial Scholarship (selected 3 consecutive years). Member of the Network Information Systems Laboratory. Studied human cognition, behavior, and society in an interdisciplinary framework."
       },
       "wasedaGrad": {
         "period": "Waseda University, Graduate School of Human Sciences (Master's)",
-        "description": "Currently enrolled. Conducting research on autonomous driving and human behavior, centered on Human-Computer Interaction (HCI)."
+        "description": "Currently enrolled. Member of the Network Information Systems Laboratory. Conducting research on autonomous driving and human behavior, centered on Human-Computer Interaction (HCI)."
       }
     },
     "values": {
@@ -104,7 +104,8 @@
       "title": "Note Articles & Monthly Membership",
       "description": "I offer paid articles and monthly memberships on the theme of applying academic knowledge, HCI, and everyday life.",
       "sponsor": "Sponsors are also welcome",
-      "cta": "Read on Note"
+      "cta": "Read on Note",
+      "url": "https://note.com/fancy_quince8671"
     }
   },
   "contact": {

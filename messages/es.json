@@ -27,11 +27,11 @@
       },
       "wasedaUndergrad": {
         "period": "Universidad de Waseda, Facultad de Ciencias Humanas",
-        "description": "Graduado en tres anos (graduacion anticipada). Estudio la cognicion humana, el comportamiento y la sociedad en un marco interdisciplinario."
+        "description": "Graduado en tres anos (graduacion anticipada). Recibio la Beca Conmemorativa Okuma (seleccionado 3 anos consecutivos). Miembro del Network Information Systems Laboratory. Estudio la cognicion humana, el comportamiento y la sociedad en un marco interdisciplinario."
       },
       "wasedaGrad": {
         "period": "Universidad de Waseda, Escuela de Posgrado en Ciencias Humanas (Maestria)",
-        "description": "Actualmente matriculado. Realizando investigacion sobre conduccion autonoma y comportamiento humano, centrada en la Interaccion Humano-Computadora (HCI)."
+        "description": "Actualmente matriculado. Miembro del Network Information Systems Laboratory. Realizando investigacion sobre conduccion autonoma y comportamiento humano, centrada en la Interaccion Humano-Computadora (HCI)."
       }
     },
     "values": {
@@ -104,7 +104,8 @@
       "title": "Articulos en Note y membresia mensual",
       "description": "Ofrezco articulos de pago y membresias mensuales sobre la aplicacion del conocimiento academico, HCI y la vida cotidiana.",
       "sponsor": "Los patrocinadores tambien son bienvenidos",
-      "cta": "Leer en Note"
+      "cta": "Leer en Note",
+      "url": "https://note.com/fancy_quince8671"
     }
   },
   "contact": {

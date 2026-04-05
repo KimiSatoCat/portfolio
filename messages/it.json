@@ -27,11 +27,11 @@
       },
       "wasedaUndergrad": {
         "period": "Università Waseda, Facoltà di Scienze Umane",
-        "description": "Laureato in tre anni (laurea anticipata). Studio della cognizione umana, del comportamento e della società in un quadro interdisciplinare."
+        "description": "Laureato in tre anni (laurea anticipata). Vincitore della Borsa di studio commemorativa Okuma (selezionato per 3 anni consecutivi). Membro del Network Information Systems Laboratory. Studio della cognizione umana, del comportamento e della società in un quadro interdisciplinare."
       },
       "wasedaGrad": {
         "period": "Università Waseda, Scuola di specializzazione in Scienze Umane (Master)",
-        "description": "Attualmente iscritto. Ricerca sulla guida autonoma e sul comportamento umano, incentrata sull'Interazione Uomo-Computer (HCI)."
+        "description": "Attualmente iscritto. Membro del Network Information Systems Laboratory. Ricerca sulla guida autonoma e sul comportamento umano, incentrata sull'Interazione Uomo-Computer (HCI)."
       }
     },
     "values": {
@@ -104,7 +104,8 @@
       "title": "Articoli su Note e abbonamento mensile",
       "description": "Offro articoli a pagamento e abbonamenti mensili sul tema dell'applicazione delle conoscenze accademiche, dell'HCI e della vita quotidiana.",
       "sponsor": "Anche gli sponsor sono benvenuti",
-      "cta": "Leggi su Note"
+      "cta": "Leggi su Note",
+      "url": "https://note.com/fancy_quince8671"
     }
   },
   "contact": {

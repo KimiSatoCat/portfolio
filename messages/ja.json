@@ -27,11 +27,11 @@
       },
       "wasedaUndergrad": {
         "period": "早稲田大学 人間科学部",
-        "description": "3年早期卒業。人間の認知・行動・社会を横断的に学び、学際的な視座を養った。"
+        "description": "3年早期卒業。大隈記念奨学金に3年連続で採択。ネットワーク情報システム学研究室に所属し、人間の認知・行動・社会を横断的に学び、学際的な視座を養った。"
       },
       "wasedaGrad": {
         "period": "早稲田大学大学院 人間科学研究科 修士課程",
-        "description": "在学中。HCI（Human-Computer Interaction）を軸に、自動運転と人間行動の研究に取り組んでいる。"
+        "description": "在学中。ネットワーク情報システム学研究室に所属し、HCI（Human-Computer Interaction）を軸に、自動運転と人間行動の研究に取り組んでいる。"
       }
     },
     "values": {
@@ -104,7 +104,8 @@
       "title": "Note有料記事・月額メンバーシップ",
       "description": "学術知見×HCI×日常への応用をテーマに、有料記事や月額メンバーシップを提供しています。",
       "sponsor": "スポンサーも募集しています",
-      "cta": "Noteを読む"
+      "cta": "Noteを読む",
+      "url": "https://note.com/fancy_quince8671"
     }
   },
   "contact": {

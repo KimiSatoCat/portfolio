@@ -36,7 +36,7 @@ export default function ServicesPage() {
           description={t("note.description")}
           detail={t("note.sponsor")}
           cta={t("note.cta")}
-          externalHref="#"
+          externalHref="https://note.com/fancy_quince8671"
           delay={0.2}
         />
       </div>

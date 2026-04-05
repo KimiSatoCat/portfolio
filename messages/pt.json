@@ -27,11 +27,11 @@
       },
       "wasedaUndergrad": {
         "period": "Universidade Waseda, Faculdade de Ciências Humanas",
-        "description": "Graduado em três anos (graduação antecipada). Estudo da cognição humana, comportamento e sociedade em um quadro interdisciplinar."
+        "description": "Graduado em três anos (graduação antecipada). Recebeu a Bolsa Comemorativa Okuma (selecionado por 3 anos consecutivos). Membro do Network Information Systems Laboratory. Estudo da cognição humana, comportamento e sociedade em um quadro interdisciplinar."
       },
       "wasedaGrad": {
         "period": "Universidade Waseda, Pós-graduação em Ciências Humanas (Mestrado)",
-        "description": "Atualmente matriculado. Pesquisa sobre direção autônoma e comportamento humano, centrada na Interação Humano-Computador (IHC)."
+        "description": "Atualmente matriculado. Membro do Network Information Systems Laboratory. Pesquisa sobre direção autônoma e comportamento humano, centrada na Interação Humano-Computador (IHC)."
       }
     },
     "values": {
@@ -104,7 +104,8 @@
       "title": "Artigos no Note e assinatura mensal",
       "description": "Ofereço artigos pagos e assinaturas mensais sobre o tema da aplicação do conhecimento acadêmico, IHC e vida cotidiana.",
       "sponsor": "Patrocinadores também são bem-vindos",
-      "cta": "Ler no Note"
+      "cta": "Ler no Note",
+      "url": "https://note.com/fancy_quince8671"
     }
   },
   "contact": {
