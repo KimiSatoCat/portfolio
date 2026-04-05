@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;600;700&family=Noto+Sans+JP:wght@300;400;500;700&family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --sumi-black: #0d0d0d;
+    --washi-white: #f0ede8;
+    --kin-gold: #b89a6a;
+    --mist-gray: #3a3a3a;
+    --beni-red: #8b3a3a;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: var(--sumi-black);
+    color: var(--washi-white);
+    font-family: 'Noto Sans JP', 'Inter', sans-serif;
+  }
+
+  ::selection {
+    background-color: var(--kin-gold);
+    color: var(--sumi-black);
+  }
+}
+
+@layer components {
+  .heading-jp {
+    font-family: 'Noto Serif JP', serif;
+  }
+
+  .heading-en {
+    font-family: 'Cormorant Garamond', serif;
+  }
+
+  .gold-line {
+    @apply h-px bg-kin-gold opacity-40;
+  }
+
+  .card-washi {
+    @apply bg-mist-gray/50 backdrop-blur-sm border border-kin-gold/20 rounded-sm;
+  }
+
+  .btn-beni {
+    @apply bg-beni-red text-washi-white px-6 py-3 rounded-sm
+           hover:bg-beni-red/80 transition-colors duration-300
+           font-medium tracking-wide;
+  }
+
+  .btn-outline {
+    @apply border border-kin-gold/40 text-kin-gold px-6 py-3 rounded-sm
+           hover:bg-kin-gold/10 transition-colors duration-300
+           font-medium tracking-wide;
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "title": "Kiminobu Sato | Portfolio",
+    "description": "Portfolio of Kiminobu Sato — Researcher in HCI, Autonomous Driving, and Health Informatics"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "research": "Research",
+    "works": "Works",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "name": "佐藤公宜",
+    "nameEn": "Kiminobu Sato",
+    "title": "HCI Researcher / Waseda University Graduate School",
+    "catchphrase": "Evidence and Stillness.",
+    "scroll": "Scroll"
+  },
+  "about": {
+    "heading": "About",
+    "timeline": {
+      "coastGuard": {
+        "period": "Japan Coast Guard",
+        "description": "Engaged in maritime disaster response and international joint training exercises. Gained firsthand experience in crisis management and multinational cooperation on the front lines of maritime safety."
+      },
+      "wasedaUndergrad": {
+        "period": "Waseda University, School of Human Sciences",
+        "description": "Graduated in three years (early graduation). Studied human cognition, behavior, and society in an interdisciplinary framework."
+      },
+      "wasedaGrad": {
+        "period": "Waseda University, Graduate School of Human Sciences (Master's)",
+        "description": "Currently enrolled. Conducting research on autonomous driving and human behavior, centered on Human-Computer Interaction (HCI)."
+      }
+    },
+    "values": {
+      "heading": "Philosophy & Values",
+      "text": "At the foundation of my work lies an unwavering commitment to law and ethics. I do not make claims unsupported by academic evidence, and I approach every subject through interdisciplinary, multi-perspective lenses. The HCI perspective — a design philosophy that places humans at the center of the intersection between people and technology — is a principle that runs through not only my research but all of my creations. Above all, I hold one absolute principle without compromise: my activities must never cause harm to anyone. This serves as the starting point for every decision I make."
+    }
+  },
+  "research": {
+    "heading": "Research",
+    "driving": {
+      "title": "Autonomous Driving & Driving Behavior",
+      "description": "I investigate how humans drive and how they can coexist with autonomous driving systems. By combining driving simulators, eye tracking, EEG, and physiological measurements, I work on modeling human-like driving behavior and improving the acceptance of autonomous vehicles.",
+      "keywords": ["HCI", "Human-like Driving", "Autonomous Vehicles", "Cognitive Science"]
+    },
+    "humanities": {
+      "title": "Humanities Approach to Autonomous Driving Adoption",
+      "description": "The societal implementation of autonomous driving technology cannot be solved by engineering alone. By integrating insights from social psychology, history, and AI, I aim to elucidate the mechanisms by which people form attitudes toward autonomous driving and the factors that influence these attitudes."
+    },
+    "health": {
+      "title": "Health Informatics (Personal Research)",
+      "description": "I am conducting personal research using biometric data from the SOXAI Ring to examine the relationship between sauna use and sleep through an N-of-1 design. Using heart rate variability (HRV) as a key metric, I aim to quantitatively capture the physiological changes brought about by everyday health behaviors.",
+      "cta": "Looking for research collaborators"
+    }
+  },
+  "works": {
+    "heading": "Works",
+    "items": {
+      "hitoiro": {
+        "title": "Hitoiro",
+        "description": "A self-care app that records emotions as colors. It offers an experience of deepening self-understanding by visually reflecting on daily feelings.",
+        "stack": "React + Vite / Firebase / Stripe / Claude API"
+      },
+      "bwm": {
+        "title": "Better Waseda Moodle Kai",
+        "description": "A Chrome extension that improves the usability of Waseda University's LMS, Waseda Moodle.",
+        "stack": "Chrome Extension / Vercel / Stripe"
+      },
+      "soxai": {
+        "title": "SOXAI Health Intelligence",
+        "description": "A health dashboard that visualizes SOXAI Ring data. Provides an overview of sleep, activity, and stress trends.",
+        "stack": "React / Recharts / Node.js"
+      },
+      "workguard": {
+        "title": "WorkGuard",
+        "description": "A tool that detects and visualizes exploitative labor structures. Provides information to protect workers' rights.",
+        "stack": "React"
+      },
+      "idoki": {
+        "title": "idoki",
+        "description": "An app that measures the relationship between movement and emotion. Uses DAR-3 / DAR-5 scales to explore the correlation between location and mood.",
+        "stack": "React / DAR-3 / DAR-5"
+      }
+    }
+  },
+  "services": {
+    "heading": "Services",
+    "research": {
+      "title": "Research Collaboration & Consulting",
+      "description": "I accept collaborative research and consulting engagements in HCI, autonomous driving, health informatics, and cognitive science.",
+      "format": "Online consultation (first 30 minutes free)",
+      "cta": "Contact"
+    },
+    "development": {
+      "title": "AI App & Web Development",
+      "description": "I undertake planning and development of applications and websites using React, Next.js, Claude API, and more.",
+      "pricing": "Price: Estimate required",
+      "cta": "Request a quote"
+    },
+    "note": {
+      "title": "Note Articles & Monthly Membership",
+      "description": "I offer paid articles and monthly memberships on the theme of applying academic knowledge, HCI, and everyday life.",
+      "sponsor": "Sponsors are also welcome",
+      "cta": "Read on Note"
+    }
+  },
+  "contact": {
+    "heading": "Contact",
+    "description": "For inquiries about research, development, or consulting, feel free to reach out via the form below or email.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send",
+      "success": "Your message has been sent. Thank you.",
+      "error": "Failed to send. Please contact me directly by email."
+    }
+  },
+  "footer": {
+    "copyright": "© {year} Kiminobu Sato"
+  }
+}

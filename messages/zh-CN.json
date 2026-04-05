@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "title": "佐藤公宜 | 作品集",
+    "description": "HCI、自动驾驶、健康信息学研究者 佐藤公宜 的作品集网站"
+  },
+  "nav": {
+    "home": "首页",
+    "about": "经历",
+    "research": "研究",
+    "works": "作品",
+    "services": "服务",
+    "contact": "联系我"
+  },
+  "hero": {
+    "name": "佐藤公宜",
+    "nameEn": "Kiminobu Sato",
+    "title": "HCI研究者 / 早稻田大学研究生院",
+    "catchphrase": "循证据，守宁静。",
+    "scroll": "向下滚动"
+  },
+  "about": {
+    "heading": "经历",
+    "timeline": {
+      "coastGuard": {
+        "period": "日本海上保安厅",
+        "description": "从事海上灾害应对及国际联合训练工作。在守护海上安全的第一线，积累了危机管理与多国协作的实战经验。"
+      },
+      "wasedaUndergrad": {
+        "period": "早稻田大学 人间科学部",
+        "description": "提前三年毕业。跨领域学习人类认知、行为与社会，培养了学科交叉的研究视野。"
+      },
+      "wasedaGrad": {
+        "period": "早稻田大学研究生院 人间科学研究科 硕士课程",
+        "description": "在读中。以人机交互（HCI）为核心，从事自动驾驶与人类行为的研究。"
+      }
+    },
+    "values": {
+      "heading": "理念与价值观",
+      "text": "我工作的根基是对法律与伦理的坚定承诺。我不会提出缺乏学术证据支撑的主张，并始终以跨学科、多视角的方式审视事物。HCI的视角——即在人与技术的交汇处以人为中心的设计理念——不仅贯穿我的研究，也是我所有作品的基本原则。最重要的是，我的活动绝不能对任何人造成伤害。这是我毫不妥协的绝对原则，也是一切决策的出发点。"
+    }
+  },
+  "research": {
+    "heading": "研究",
+    "driving": {
+      "title": "自动驾驶与驾驶行为研究",
+      "description": "探索人类如何驾驶，以及如何与自动驾驶系统共存。通过结合驾驶模拟器、眼动追踪、脑电图（EEG）、生理测量等方法，致力于拟人化驾驶行为建模和提升自动驾驶车辆的社会接受度。",
+      "keywords": ["HCI", "Human-like Driving", "Autonomous Vehicles", "Cognitive Science"]
+    },
+    "humanities": {
+      "title": "自动驾驶普及的人文学研究",
+      "description": "自动驾驶技术的社会落地不能仅靠工程技术来解决。通过融合社会心理学、历史学和人工智能的研究成果，我致力于阐明人们对自动驾驶形成何种态度，以及哪些因素会影响这些态度的形成机制。"
+    },
+    "health": {
+      "title": "健康信息学（个人研究）",
+      "description": "利用SOXAI智能戒指获取的生物数据，通过N-of-1实验设计验证桑拿与睡眠的关系。以心率变异性（HRV）为核心指标，旨在定量捕捉日常健康行为带来的生理变化。",
+      "cta": "正在招募合作研究者"
+    }
+  },
+  "works": {
+    "heading": "作品",
+    "items": {
+      "hitoiro": {
+        "title": "Hitoiro",
+        "description": "一款用颜色记录情绪的自我关怀应用。通过视觉化地回顾每日心情，帮助用户深入了解自我。",
+        "stack": "React + Vite / Firebase / Stripe / Claude API"
+      },
+      "bwm": {
+        "title": "Better Waseda Moodle Kai",
+        "description": "改善早稻田大学学习管理系统 Waseda Moodle 操作体验的Chrome扩展程序。",
+        "stack": "Chrome Extension / Vercel / Stripe"
+      },
+      "soxai": {
+        "title": "SOXAI Health Intelligence",
+        "description": "将SOXAI智能戒指数据可视化的健康仪表盘。可一览睡眠、活动和压力趋势。",
+        "stack": "React / Recharts / Node.js"
+      },
+      "workguard": {
+        "title": "WorkGuard",
+        "description": "检测并可视化劳动环境中剥削性结构的工具。为保障劳动者权益提供信息支持。",
+        "stack": "React"
+      },
+      "idoki": {
+        "title": "idoki",
+        "description": "测量移动与情绪关系的应用。使用DAR-3 / DAR-5量表探索地点与心情之间的相关性。",
+        "stack": "React / DAR-3 / DAR-5"
+      }
+    }
+  },
+  "services": {
+    "heading": "服务",
+    "research": {
+      "title": "合作研究与研究咨询",
+      "description": "在HCI、自动驾驶、健康信息学、认知科学领域承接合作研究与咨询服务。",
+      "format": "在线咨询（首次30分钟免费）",
+      "cta": "联系我"
+    },
+    "development": {
+      "title": "AI应用与网站开发",
+      "description": "承接基于React / Next.js / Claude API等技术的应用程序与网站的策划与开发。",
+      "pricing": "价格：需报价",
+      "cta": "申请报价"
+    },
+    "note": {
+      "title": "Note付费文章与月度会员",
+      "description": "以学术知识 x HCI x 日常应用为主题，提供付费文章和月度会员服务。",
+      "sponsor": "也在招募赞助商",
+      "cta": "阅读Note"
+    }
+  },
+  "contact": {
+    "heading": "联系我",
+    "description": "如有关于研究、开发或咨询的需求，欢迎通过以下表单或邮件联系我。",
+    "form": {
+      "name": "姓名",
+      "email": "邮箱",
+      "subject": "主题",
+      "message": "留言内容",
+      "submit": "发送",
+      "success": "发送成功，感谢您的来信。",
+      "error": "发送失败，请直接通过邮件联系我。"
+    }
+  },
+  "footer": {
+    "copyright": "© {year} 佐藤公宜"
+  }
+}

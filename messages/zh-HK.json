@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "title": "佐藤公宜 | 作品集",
+    "description": "HCI、自動駕駛、健康資訊學研究者 佐藤公宜 嘅作品集網站"
+  },
+  "nav": {
+    "home": "主頁",
+    "about": "經歷",
+    "research": "研究",
+    "works": "作品",
+    "services": "服務",
+    "contact": "聯絡我"
+  },
+  "hero": {
+    "name": "佐藤公宜",
+    "nameEn": "Kiminobu Sato",
+    "title": "HCI研究者 / 早稻田大學研究院",
+    "catchphrase": "講實證，守寧靜。",
+    "scroll": "向下撥"
+  },
+  "about": {
+    "heading": "經歷",
+    "timeline": {
+      "coastGuard": {
+        "period": "日本海上保安廳",
+        "description": "做過海上災害應對同國際聯合訓練嘅工作。喺守護海上安全嘅前線，累積咗危機管理同多國協作嘅實戰經驗。"
+      },
+      "wasedaUndergrad": {
+        "period": "早稻田大學 人間科學部",
+        "description": "提早三年畢業。跨領域學習人類認知、行為同社會，培養咗跨學科嘅研究視野。"
+      },
+      "wasedaGrad": {
+        "period": "早稻田大學研究院 人間科學研究科 碩士課程",
+        "description": "而家讀緊。以人機互動（HCI）為核心，做緊自動駕駛同人類行為嘅研究。"
+      }
+    },
+    "values": {
+      "heading": "理念同價值觀",
+      "text": "我做嘢嘅根基係對法律同倫理嘅堅定承諾。我唔會講冇學術證據撐住嘅嘢，而且一直以跨學科、多角度嘅方式去睇事物。HCI嘅角度——即係喺人同科技嘅交匯處以人為中心嘅設計理念——唔淨止貫穿我嘅研究，亦係我所有作品嘅基本原則。最重要嘅係，我做嘅嘢絕對唔可以傷害到任何人。呢個係我冇得妥協嘅絕對原則，亦係所有決定嘅出發點。"
+    }
+  },
+  "research": {
+    "heading": "研究",
+    "driving": {
+      "title": "自動駕駛同駕駛行為研究",
+      "description": "探索人類點樣揸車，同埋點樣同自動駕駛系統共存。透過結合駕駛模擬器、眼動追蹤、腦電圖（EEG）、生理量測等方法，致力於擬人化駕駛行為建模同提升自動駕駛車輛嘅社會接受度。",
+      "keywords": ["HCI", "Human-like Driving", "Autonomous Vehicles", "Cognitive Science"]
+    },
+    "humanities": {
+      "title": "自動駕駛普及嘅人文學研究",
+      "description": "自動駕駛技術要落地唔係淨靠工程技術就搞得掂。透過融合社會心理學、歷史學同人工智能嘅研究成果，我致力於搞清楚人哋對自動駕駛會形成咩態度，同埋邊啲因素會影響呢啲態度嘅形成機制。"
+    },
+    "health": {
+      "title": "健康資訊學（個人研究）",
+      "description": "利用SOXAI智能戒指攞到嘅生物數據，透過N-of-1實驗設計驗證桑拿同瞓覺嘅關係。以心率變異性（HRV）為核心指標，目標係定量捕捉日常健康行為帶嚟嘅生理變化。",
+      "cta": "招緊合作研究者"
+    }
+  },
+  "works": {
+    "heading": "作品",
+    "items": {
+      "hitoiro": {
+        "title": "Hitoiro",
+        "description": "一個用顏色記錄情緒嘅自我關懷App。透過視覺化咁回顧每日心情，幫用戶更加了解自己。",
+        "stack": "React + Vite / Firebase / Stripe / Claude API"
+      },
+      "bwm": {
+        "title": "Better Waseda Moodle Kai",
+        "description": "改善早稻田大學學習管理系統「Waseda Moodle」操作體驗嘅Chrome擴充功能。",
+        "stack": "Chrome Extension / Vercel / Stripe"
+      },
+      "soxai": {
+        "title": "SOXAI Health Intelligence",
+        "description": "將SOXAI智能戒指數據視覺化嘅健康儀表板。可以一眼睇晒瞓覺、活動同壓力趨勢。",
+        "stack": "React / Recharts / Node.js"
+      },
+      "workguard": {
+        "title": "WorkGuard",
+        "description": "偵測同視覺化勞動環境入面剝削性結構嘅工具。為保障打工仔權益提供資訊支援。",
+        "stack": "React"
+      },
+      "idoki": {
+        "title": "idoki",
+        "description": "量度移動同情緒關係嘅App。用DAR-3 / DAR-5量表探索地點同心情之間嘅相關性。",
+        "stack": "React / DAR-3 / DAR-5"
+      }
+    }
+  },
+  "services": {
+    "heading": "服務",
+    "research": {
+      "title": "合作研究同研究諮詢",
+      "description": "喺HCI、自動駕駛、健康資訊學、認知科學領域承接合作研究同諮詢服務。",
+      "format": "線上諮詢（第一次30分鐘免費）",
+      "cta": "聯絡我"
+    },
+    "development": {
+      "title": "AI App同網站開發",
+      "description": "承接用React / Next.js / Claude API等技術嘅應用程式同網站企劃同開發。",
+      "pricing": "價錢：需要報價",
+      "cta": "申請報價"
+    },
+    "note": {
+      "title": "Note付費文章同月費會員",
+      "description": "以學術知識 x HCI x 日常應用為主題，提供付費文章同月費會員服務。",
+      "sponsor": "亦都招緊贊助商",
+      "cta": "睇Note"
+    }
+  },
+  "contact": {
+    "heading": "聯絡我",
+    "description": "如果有關於研究、開發或者諮詢嘅需要，歡迎透過以下表格或者電郵聯絡我。",
+    "form": {
+      "name": "姓名",
+      "email": "電郵",
+      "subject": "主旨",
+      "message": "訊息內容",
+      "submit": "送出",
+      "success": "已經成功送出，多謝你嘅來信。",
+      "error": "送出失敗，請直接用電郵聯絡我。"
+    }
+  },
+  "footer": {
+    "copyright": "© {year} 佐藤公宜"
+  }
+}

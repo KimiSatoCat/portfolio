@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "title": "Kiminobu Sato | Portafolio",
+    "description": "Portafolio de Kiminobu Sato — Investigador en HCI, conduccion autonoma e informatica de la salud"
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre mi",
+    "research": "Investigacion",
+    "works": "Trabajos",
+    "services": "Servicios",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "name": "佐藤公宜",
+    "nameEn": "Kiminobu Sato",
+    "title": "Investigador en HCI / Escuela de Posgrado, Universidad de Waseda",
+    "catchphrase": "Evidencia y quietud.",
+    "scroll": "Desplazar"
+  },
+  "about": {
+    "heading": "Sobre mi",
+    "timeline": {
+      "coastGuard": {
+        "period": "Guardia Costera de Japon",
+        "description": "Participacion en respuesta a desastres maritimos y ejercicios de entrenamiento conjunto internacionales. Adquirio experiencia directa en gestion de crisis y cooperacion multinacional en la primera linea de la seguridad maritima."
+      },
+      "wasedaUndergrad": {
+        "period": "Universidad de Waseda, Facultad de Ciencias Humanas",
+        "description": "Graduado en tres anos (graduacion anticipada). Estudio la cognicion humana, el comportamiento y la sociedad en un marco interdisciplinario."
+      },
+      "wasedaGrad": {
+        "period": "Universidad de Waseda, Escuela de Posgrado en Ciencias Humanas (Maestria)",
+        "description": "Actualmente matriculado. Realizando investigacion sobre conduccion autonoma y comportamiento humano, centrada en la Interaccion Humano-Computadora (HCI)."
+      }
+    },
+    "values": {
+      "heading": "Filosofia y valores",
+      "text": "En la base de mi trabajo se encuentra un compromiso inquebrantable con la ley y la etica. No hago afirmaciones sin respaldo de evidencia academica, y abordo cada tema a traves de lentes interdisciplinarias y multiperspectivas. La perspectiva HCI — una filosofia de diseno que situa al ser humano en el centro de la interseccion entre personas y tecnologia — es un principio que recorre no solo mi investigacion, sino todas mis creaciones. Sobre todo, mantengo un principio absoluto sin compromiso: mis actividades nunca deben causar dano a nadie. Este es el punto de partida de cada decision que tomo."
+    }
+  },
+  "research": {
+    "heading": "Investigacion",
+    "driving": {
+      "title": "Conduccion autonoma y comportamiento al volante",
+      "description": "Investigo como conducen los seres humanos y como pueden coexistir con los sistemas de conduccion autonoma. Combinando simuladores de conduccion, seguimiento ocular, EEG y mediciones fisiologicas, trabajo en el modelado del comportamiento de conduccion similar al humano y en mejorar la aceptacion de los vehiculos autonomos.",
+      "keywords": ["HCI", "Conduccion similar al humano", "Vehiculos autonomos", "Ciencia cognitiva"]
+    },
+    "humanities": {
+      "title": "Enfoque humanistico para la adopcion de la conduccion autonoma",
+      "description": "La implementacion social de la tecnologia de conduccion autonoma no puede resolverse solo con ingenieria. Integrando conocimientos de psicologia social, historia e IA, busco esclarecer los mecanismos por los cuales las personas forman actitudes hacia la conduccion autonoma y los factores que influyen en ellas."
+    },
+    "health": {
+      "title": "Informatica de la salud (investigacion personal)",
+      "description": "Estoy realizando una investigacion personal utilizando datos biometricos del SOXAI Ring para examinar la relacion entre el uso de sauna y el sueno mediante un diseno N-of-1. Usando la variabilidad de la frecuencia cardiaca (HRV) como metrica clave, busco capturar cuantitativamente los cambios fisiologicos producidos por comportamientos de salud cotidianos.",
+      "cta": "Buscando colaboradores de investigacion"
+    }
+  },
+  "works": {
+    "heading": "Trabajos",
+    "items": {
+      "hitoiro": {
+        "title": "Hitoiro",
+        "description": "Una aplicacion de autocuidado que registra emociones como colores. Ofrece una experiencia de profundizacion del autoconocimiento al reflexionar visualmente sobre los sentimientos diarios.",
+        "stack": "React + Vite / Firebase / Stripe / Claude API"
+      },
+      "bwm": {
+        "title": "Better Waseda Moodle Kai",
+        "description": "Una extension de Chrome que mejora la usabilidad de Waseda Moodle, el LMS de la Universidad de Waseda.",
+        "stack": "Chrome Extension / Vercel / Stripe"
+      },
+      "soxai": {
+        "title": "SOXAI Health Intelligence",
+        "description": "Un panel de salud que visualiza los datos del SOXAI Ring. Proporciona una vision general de las tendencias de sueno, actividad y estres.",
+        "stack": "React / Recharts / Node.js"
+      },
+      "workguard": {
+        "title": "WorkGuard",
+        "description": "Una herramienta que detecta y visualiza estructuras laborales de explotacion. Proporciona informacion para proteger los derechos de los trabajadores.",
+        "stack": "React"
+      },
+      "idoki": {
+        "title": "idoki",
+        "description": "Una aplicacion que mide la relacion entre el movimiento y la emocion. Utiliza escalas DAR-3 / DAR-5 para explorar la correlacion entre ubicacion y estado de animo.",
+        "stack": "React / DAR-3 / DAR-5"
+      }
+    }
+  },
+  "services": {
+    "heading": "Servicios",
+    "research": {
+      "title": "Colaboracion en investigacion y consultoria",
+      "description": "Acepto encargos de investigacion colaborativa y consultoria en HCI, conduccion autonoma, informatica de la salud y ciencia cognitiva.",
+      "format": "Consulta en linea (primeros 30 minutos gratis)",
+      "cta": "Contacto"
+    },
+    "development": {
+      "title": "Desarrollo de apps con IA y web",
+      "description": "Me encargo de la planificacion y desarrollo de aplicaciones y sitios web utilizando React, Next.js, Claude API y mas.",
+      "pricing": "Precio: Se requiere presupuesto",
+      "cta": "Solicitar presupuesto"
+    },
+    "note": {
+      "title": "Articulos en Note y membresia mensual",
+      "description": "Ofrezco articulos de pago y membresias mensuales sobre la aplicacion del conocimiento academico, HCI y la vida cotidiana.",
+      "sponsor": "Los patrocinadores tambien son bienvenidos",
+      "cta": "Leer en Note"
+    }
+  },
+  "contact": {
+    "heading": "Contacto",
+    "description": "Para consultas sobre investigacion, desarrollo o consultoria, no dude en comunicarse a traves del formulario a continuacion o por correo electronico.",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo electronico",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "submit": "Enviar",
+      "success": "Su mensaje ha sido enviado. Gracias.",
+      "error": "Error al enviar. Por favor, contacteme directamente por correo electronico."
+    }
+  },
+  "footer": {
+    "copyright": "© {year} Kiminobu Sato"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "title": "佐藤公宜 | 作品集",
+    "description": "佐藤公宜 ê 作品集 — HCI、自動駕駛、健康資訊學 ê 研究者"
+  },
+  "nav": {
+    "home": "頭頁",
+    "about": "關於我",
+    "research": "研究",
+    "works": "作品",
+    "services": "服務",
+    "contact": "聯絡"
+  },
+  "hero": {
+    "name": "佐藤公宜",
+    "nameEn": "Kiminobu Sato",
+    "title": "HCI 研究者 / 早稻田大學大學院",
+    "catchphrase": "證據 kah 寧靜。",
+    "scroll": "向下捲"
+  },
+  "about": {
+    "heading": "關於我",
+    "timeline": {
+      "coastGuard": {
+        "period": "日本海上保安廳",
+        "description": "從事海上災害應變 kah 國際聯合訓練。佇海上安全 ê 第一線，累積危機管理 kah 多國合作 ê 實務經驗。"
+      },
+      "wasedaUndergrad": {
+        "period": "早稻田大學 人間科學部",
+        "description": "三年就畢業（提早畢業）。用跨領域 ê 方式來學習人類 ê 認知、行為 kah 社會。"
+      },
+      "wasedaGrad": {
+        "period": "早稻田大學 大學院人間科學研究科（碩士）",
+        "description": "目前就讀中。以人機互動（HCI）做中心，進行自動駕駛 kah 人類行為 ê 研究。"
+      }
+    },
+    "values": {
+      "heading": "理念 kah 價值觀",
+      "text": "我 ê 工作根基是對法律 kah 倫理毋搖動 ê 堅持。我袂講無學術證據支持 ê 話，對任何主題攏用跨領域、多角度 ê 方式來看。HCI ê 觀點——佇人 kah 科技 ê 交會點，以人做中心 ê 設計哲學——毋但是我 ê 研究，嘛貫穿我所有 ê 創作。上重要 ê 是，我有一個絕對無妥協 ê 原則：我 ê 活動絕對袂去傷害任何人。這是我每一個決定 ê 出發點。"
+    }
+  },
+  "research": {
+    "heading": "研究",
+    "driving": {
+      "title": "自動駕駛 kah 駕駛行為",
+      "description": "我咧調查人是按怎開車，kah 人按怎 kah 自動駕駛系統共存。透過結合駕駛模擬器、眼球追蹤、腦波、kah 生理量測，我咧建立仿人駕駛行為 ê 模型，嘛咧改善大眾對自動駕駛車 ê 接受度。",
+      "keywords": ["HCI", "仿人駕駛", "自動駕駛車", "認知科學"]
+    },
+    "humanities": {
+      "title": "用人文方法來推動自動駕駛 ê 普及",
+      "description": "自動駕駛技術 ê 社會實踐，干焦靠工程是解決袂了 ê。透過結合社會心理學、歷史學 kah AI ê 見解，我欲闡明人對自動駕駛形成態度 ê 機制 kah 影響因素。"
+    },
+    "health": {
+      "title": "健康資訊學（個人研究）",
+      "description": "我用 SOXAI Ring ê 生體數據，採用 N-of-1 設計，咧做三溫暖 kah 睏眠關係 ê 個人研究。用心率變異度（HRV）做重要指標，我欲用數量 ê 方式來掌握日常健康行為帶來 ê 生理變化。",
+      "cta": "咧揣研究合作夥伴"
+    }
+  },
+  "works": {
+    "heading": "作品",
+    "items": {
+      "hitoiro": {
+        "title": "Hitoiro",
+        "description": "一个用色水來記錄情緒 ê 自我照顧 App。透過視覺化回顧逐工 ê 感受，提供加深自我了解 ê 體驗。",
+        "stack": "React + Vite / Firebase / Stripe / Claude API"
+      },
+      "bwm": {
+        "title": "Better Waseda Moodle Kai",
+        "description": "一个改善早稻田大學 LMS「Waseda Moodle」使用體驗 ê Chrome 擴充功能。",
+        "stack": "Chrome Extension / Vercel / Stripe"
+      },
+      "soxai": {
+        "title": "SOXAI Health Intelligence",
+        "description": "一个將 SOXAI Ring 數據視覺化 ê 健康儀表板。提供睏眠、活動 kah 壓力趨勢 ê 總覽。",
+        "stack": "React / Recharts / Node.js"
+      },
+      "workguard": {
+        "title": "WorkGuard",
+        "description": "一个檢測 kah 視覺化剝削勞動結構 ê 工具。提供保護勞動者權益 ê 資訊。",
+        "stack": "React"
+      },
+      "idoki": {
+        "title": "idoki",
+        "description": "一个量測移動 kah 情緒關係 ê App。使用 DAR-3 / DAR-5 量表來探索位置 kah 心情 ê 相關性。",
+        "stack": "React / DAR-3 / DAR-5"
+      }
+    }
+  },
+  "services": {
+    "heading": "服務",
+    "research": {
+      "title": "研究合作 kah 顧問",
+      "description": "我接受 HCI、自動駕駛、健康資訊學 kah 認知科學領域 ê 共同研究 kah 顧問委託。",
+      "format": "線上諮詢（頭 30 分鐘免費）",
+      "cta": "聯絡"
+    },
+    "development": {
+      "title": "AI App kah 網站開發",
+      "description": "我承接使用 React、Next.js、Claude API 等等 ê 應用程式 kah 網站 ê 企劃 kah 開發。",
+      "pricing": "價數：需要估價",
+      "cta": "請求報價"
+    },
+    "note": {
+      "title": "Note 文章 kah 月額會員",
+      "description": "我提供以學術知識活用、HCI kah 日常生活做主題 ê 付費文章 kah 月額會員制。",
+      "sponsor": "嘛歡迎贊助者",
+      "cta": "去 Note 讀"
+    }
+  },
+  "contact": {
+    "heading": "聯絡",
+    "description": "關於研究、開發、顧問 ê 問題，歡迎用下跤 ê 表單抑是電子批來聯絡。",
+    "form": {
+      "name": "姓名",
+      "email": "電子批",
+      "subject": "主題",
+      "message": "訊息",
+      "submit": "送出",
+      "success": "你 ê 訊息已經送出矣。多謝。",
+      "error": "送出失敗。請直接用電子批聯絡我。"
+    }
+  },
+  "footer": {
+    "copyright": "© {year} Kiminobu Sato"
+  }
+}

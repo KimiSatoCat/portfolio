@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "title": "佐藤公宜 | ポートフォリオ",
+    "description": "HCI・自動運転・健康情報科学の研究者 佐藤公宜のポートフォリオサイト"
+  },
+  "nav": {
+    "home": "ホーム",
+    "about": "経歴",
+    "research": "研究",
+    "works": "制作物",
+    "services": "サービス",
+    "contact": "お問い合わせ"
+  },
+  "hero": {
+    "name": "佐藤公宜",
+    "nameEn": "Kiminobu Sato",
+    "title": "HCI研究者 / 早稲田大学大学院",
+    "catchphrase": "エビデンスと、静けさと。",
+    "scroll": "スクロール"
+  },
+  "about": {
+    "heading": "経歴",
+    "timeline": {
+      "coastGuard": {
+        "period": "海上保安庁",
+        "description": "海上災害対応および国際共同訓練に従事。海の安全を守る現場で、危機管理と多国間協力の実務を経験した。"
+      },
+      "wasedaUndergrad": {
+        "period": "早稲田大学 人間科学部",
+        "description": "3年早期卒業。人間の認知・行動・社会を横断的に学び、学際的な視座を養った。"
+      },
+      "wasedaGrad": {
+        "period": "早稲田大学大学院 人間科学研究科 修士課程",
+        "description": "在学中。HCI（Human-Computer Interaction）を軸に、自動運転と人間行動の研究に取り組んでいる。"
+      }
+    },
+    "values": {
+      "heading": "思想と価値観",
+      "text": "私の仕事の根底にあるのは、法と倫理を絶対的な基盤とする姿勢です。学術的エビデンスに基づかない主張は行わず、複眼的・学際的な視点から物事を捉えることを信条としています。HCI的な視点——すなわち、人間とテクノロジーの接点において人を中心に据える設計思想——は、研究のみならず、すべての制作物に通底する原則です。そして何より、自分の活動によって傷つく人を生まないこと。これは妥協なき絶対原則として、あらゆる判断の起点に置いています。"
+    }
+  },
+  "research": {
+    "heading": "研究",
+    "driving": {
+      "title": "自動運転・運転行動研究",
+      "description": "人間がどのように運転し、自動運転システムとどう共存できるかを探求しています。ドライビングシミュレータ、アイトラッキング、EEG、生理計測などの手法を組み合わせ、人間らしい運転行動のモデル化と、自動運転車両の受容性向上に取り組んでいます。",
+      "keywords": ["HCI", "Human-like Driving", "Autonomous Vehicles", "Cognitive Science"]
+    },
+    "humanities": {
+      "title": "自動運転普及の人文学的研究",
+      "description": "自動運転技術の社会実装は、工学的課題だけでは解決できません。社会心理学、歴史学、AIの知見を融合させることで、人々が自動運転に対してどのような態度を形成し、それがいかなる要因によって変化するのかという需要態度形成メカニズムの解明に挑んでいます。"
+    },
+    "health": {
+      "title": "健康情報科学（個人研究）",
+      "description": "SOXAIリングから得られる生体データを活用し、サウナと睡眠の関係をN-of-1デザインで検証する個人研究を進めています。心拍変動（HRV）を中心とした指標から、日常の健康行動がもたらす生理的変化を定量的に捉えることを目指しています。",
+      "cta": "共同研究者を募集しています"
+    }
+  },
+  "works": {
+    "heading": "制作物",
+    "items": {
+      "hitoiro": {
+        "title": "ひといろ",
+        "description": "感情を色で記録するセルフケアアプリ。日々の気持ちを視覚的に振り返ることで、自己理解を深める体験を提供します。",
+        "stack": "React + Vite / Firebase / Stripe / Claude API"
+      },
+      "bwm": {
+        "title": "Better Waseda Moodle Kai",
+        "description": "早稲田大学のLMS「Waseda Moodle」の操作性を改善するChrome拡張機能。",
+        "stack": "Chrome Extension / Vercel / Stripe"
+      },
+      "soxai": {
+        "title": "SOXAI Health Intelligence",
+        "description": "SOXAIリングのデータを可視化する健康ダッシュボード。睡眠・活動・ストレスの傾向を一望できます。",
+        "stack": "React / Recharts / Node.js"
+      },
+      "workguard": {
+        "title": "WorkGuard",
+        "description": "労働環境の搾取的構造を検出・可視化するツール。労働者の権利を守るための情報を提供します。",
+        "stack": "React"
+      },
+      "idoki": {
+        "title": "idoki",
+        "description": "移動と感情の関係を計測するアプリ。DAR-3 / DAR-5スケールを用いて、場所と気分の相関を探ります。",
+        "stack": "React / DAR-3 / DAR-5"
+      }
+    }
+  },
+  "services": {
+    "heading": "サービス",
+    "research": {
+      "title": "共同研究・研究コンサルティング",
+      "description": "HCI、自動運転、健康情報科学、認知科学の領域で、共同研究やコンサルティングを承ります。",
+      "format": "オンライン相談（初回無料30分）",
+      "cta": "お問い合わせ"
+    },
+    "development": {
+      "title": "AIアプリ・ウェブ制作受託",
+      "description": "React / Next.js / Claude APIなどを活用したアプリケーション・ウェブサイトの企画・開発を受託しています。",
+      "pricing": "価格: 要見積もり",
+      "cta": "見積もりを依頼"
+    },
+    "note": {
+      "title": "Note有料記事・月額メンバーシップ",
+      "description": "学術知見×HCI×日常への応用をテーマに、有料記事や月額メンバーシップを提供しています。",
+      "sponsor": "スポンサーも募集しています",
+      "cta": "Noteを読む"
+    }
+  },
+  "contact": {
+    "heading": "お問い合わせ",
+    "description": "研究・制作・コンサルティングについてのご相談は、以下のフォームまたはメールからお気軽にどうぞ。",
+    "form": {
+      "name": "お名前",
+      "email": "メールアドレス",
+      "subject": "件名",
+      "message": "メッセージ",
+      "submit": "送信する",
+      "success": "送信が完了しました。ありがとうございます。",
+      "error": "送信に失敗しました。メールで直接ご連絡ください。"
+    }
+  },
+  "footer": {
+    "copyright": "© {year} 佐藤公宜"
+  }
+}

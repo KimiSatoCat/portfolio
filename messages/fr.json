@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "title": "Kiminobu Sato | Portfolio",
+    "description": "Portfolio de Kiminobu Sato — Chercheur en IHM, conduite autonome et informatique de la santé"
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "Profil",
+    "research": "Recherche",
+    "works": "Projets",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "name": "佐藤公宜",
+    "nameEn": "Kiminobu Sato",
+    "title": "Chercheur en IHM / École doctorale de l'Université Waseda",
+    "catchphrase": "Preuves et sérénité.",
+    "scroll": "Défiler"
+  },
+  "about": {
+    "heading": "Profil",
+    "timeline": {
+      "coastGuard": {
+        "period": "Garde côtière du Japon",
+        "description": "Participation aux opérations de secours en mer et aux exercices internationaux conjoints. Acquisition d'une expérience directe en gestion de crise et en coopération multinationale en première ligne de la sécurité maritime."
+      },
+      "wasedaUndergrad": {
+        "period": "Université Waseda, Faculté des sciences humaines",
+        "description": "Diplômé en trois ans (graduation anticipée). Étude de la cognition humaine, du comportement et de la société dans un cadre interdisciplinaire."
+      },
+      "wasedaGrad": {
+        "period": "Université Waseda, École doctorale des sciences humaines (Master)",
+        "description": "Actuellement inscrit. Recherche sur la conduite autonome et le comportement humain, centrée sur l'Interaction Homme-Machine (IHM)."
+      }
+    },
+    "values": {
+      "heading": "Philosophie et valeurs",
+      "text": "Au fondement de mon travail se trouve un engagement indéfectible envers le droit et l'éthique. Je ne formule aucune affirmation sans preuve académique, et j'aborde chaque sujet à travers des perspectives interdisciplinaires et multiples. La perspective IHM — une philosophie de conception qui place l'humain au centre de l'intersection entre les personnes et la technologie — est un principe qui traverse non seulement mes recherches mais l'ensemble de mes créations. Par-dessus tout, je maintiens un principe absolu sans compromis : mes activités ne doivent jamais nuire à quiconque. Cela constitue le point de départ de chacune de mes décisions."
+    }
+  },
+  "research": {
+    "heading": "Recherche",
+    "driving": {
+      "title": "Conduite autonome et comportement de conduite",
+      "description": "J'étudie comment les humains conduisent et comment ils peuvent coexister avec les systèmes de conduite autonome. En combinant simulateurs de conduite, oculométrie, EEG et mesures physiologiques, je travaille à la modélisation du comportement de conduite humain et à l'amélioration de l'acceptation des véhicules autonomes.",
+      "keywords": ["IHM", "Conduite humaine", "Véhicules autonomes", "Sciences cognitives"]
+    },
+    "humanities": {
+      "title": "Approche par les sciences humaines de l'adoption de la conduite autonome",
+      "description": "La mise en œuvre sociétale de la technologie de conduite autonome ne peut être résolue par l'ingénierie seule. En intégrant des connaissances issues de la psychologie sociale, de l'histoire et de l'IA, je cherche à élucider les mécanismes par lesquels les individus forment leurs attitudes envers la conduite autonome et les facteurs qui influencent ces attitudes."
+    },
+    "health": {
+      "title": "Informatique de la santé (recherche personnelle)",
+      "description": "Je mène une recherche personnelle utilisant les données biométriques du SOXAI Ring pour examiner la relation entre l'utilisation du sauna et le sommeil à travers un protocole N-of-1. En utilisant la variabilité de la fréquence cardiaque (VFC) comme indicateur clé, je vise à capturer quantitativement les changements physiologiques induits par les comportements de santé quotidiens.",
+      "cta": "Recherche de collaborateurs de recherche"
+    }
+  },
+  "works": {
+    "heading": "Projets",
+    "items": {
+      "hitoiro": {
+        "title": "Hitoiro",
+        "description": "Une application de bien-être qui enregistre les émotions sous forme de couleurs. Elle offre une expérience d'approfondissement de la connaissance de soi en permettant de revisualiser ses sentiments quotidiens.",
+        "stack": "React + Vite / Firebase / Stripe / Claude API"
+      },
+      "bwm": {
+        "title": "Better Waseda Moodle Kai",
+        "description": "Une extension Chrome qui améliore l'ergonomie du LMS de l'Université Waseda, Waseda Moodle.",
+        "stack": "Chrome Extension / Vercel / Stripe"
+      },
+      "soxai": {
+        "title": "SOXAI Health Intelligence",
+        "description": "Un tableau de bord santé qui visualise les données du SOXAI Ring. Fournit une vue d'ensemble des tendances de sommeil, d'activité et de stress.",
+        "stack": "React / Recharts / Node.js"
+      },
+      "workguard": {
+        "title": "WorkGuard",
+        "description": "Un outil qui détecte et visualise les structures de travail abusives. Fournit des informations pour protéger les droits des travailleurs.",
+        "stack": "React"
+      },
+      "idoki": {
+        "title": "idoki",
+        "description": "Une application qui mesure la relation entre le mouvement et l'émotion. Utilise les échelles DAR-3 / DAR-5 pour explorer la corrélation entre le lieu et l'humeur.",
+        "stack": "React / DAR-3 / DAR-5"
+      }
+    }
+  },
+  "services": {
+    "heading": "Services",
+    "research": {
+      "title": "Collaboration de recherche et conseil",
+      "description": "J'accepte des missions de recherche collaborative et de conseil en IHM, conduite autonome, informatique de la santé et sciences cognitives.",
+      "format": "Consultation en ligne (30 premières minutes gratuites)",
+      "cta": "Contact"
+    },
+    "development": {
+      "title": "Développement d'applications IA et web",
+      "description": "Je prends en charge la planification et le développement d'applications et de sites web utilisant React, Next.js, Claude API, et plus encore.",
+      "pricing": "Tarif : devis requis",
+      "cta": "Demander un devis"
+    },
+    "note": {
+      "title": "Articles Note et abonnement mensuel",
+      "description": "Je propose des articles payants et des abonnements mensuels sur le thème de l'application des connaissances académiques, de l'IHM et de la vie quotidienne.",
+      "sponsor": "Les sponsors sont également les bienvenus",
+      "cta": "Lire sur Note"
+    }
+  },
+  "contact": {
+    "heading": "Contact",
+    "description": "Pour toute question concernant la recherche, le développement ou le conseil, n'hésitez pas à me contacter via le formulaire ci-dessous ou par e-mail.",
+    "form": {
+      "name": "Nom",
+      "email": "E-mail",
+      "subject": "Objet",
+      "message": "Message",
+      "submit": "Envoyer",
+      "success": "Votre message a été envoyé. Merci.",
+      "error": "L'envoi a échoué. Veuillez me contacter directement par e-mail."
+    }
+  },
+  "footer": {
+    "copyright": "© {year} Kiminobu Sato"
+  }
+}

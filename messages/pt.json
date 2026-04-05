@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "title": "Kiminobu Sato | Portfolio",
+    "description": "Portfolio de Kiminobu Sato — Pesquisador em IHC, direção autônoma e informática em saúde"
+  },
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "research": "Pesquisa",
+    "works": "Projetos",
+    "services": "Serviços",
+    "contact": "Contato"
+  },
+  "hero": {
+    "name": "佐藤公宜",
+    "nameEn": "Kiminobu Sato",
+    "title": "Pesquisador em IHC / Pós-graduação da Universidade Waseda",
+    "catchphrase": "Evidência e serenidade.",
+    "scroll": "Rolar"
+  },
+  "about": {
+    "heading": "Sobre",
+    "timeline": {
+      "coastGuard": {
+        "period": "Guarda Costeira do Japão",
+        "description": "Atuação em operações de resposta a desastres marítimos e exercícios conjuntos internacionais. Adquiri experiência prática em gestão de crises e cooperação multinacional na linha de frente da segurança marítima."
+      },
+      "wasedaUndergrad": {
+        "period": "Universidade Waseda, Faculdade de Ciências Humanas",
+        "description": "Graduado em três anos (graduação antecipada). Estudo da cognição humana, comportamento e sociedade em um quadro interdisciplinar."
+      },
+      "wasedaGrad": {
+        "period": "Universidade Waseda, Pós-graduação em Ciências Humanas (Mestrado)",
+        "description": "Atualmente matriculado. Pesquisa sobre direção autônoma e comportamento humano, centrada na Interação Humano-Computador (IHC)."
+      }
+    },
+    "values": {
+      "heading": "Filosofia e valores",
+      "text": "Na base do meu trabalho está um compromisso inabalável com o direito e a ética. Não faço afirmações sem respaldo em evidências acadêmicas e abordo cada tema através de perspectivas interdisciplinares e múltiplas. A perspectiva da IHC — uma filosofia de design que coloca o ser humano no centro da interseção entre pessoas e tecnologia — é um princípio que permeia não apenas minha pesquisa, mas todas as minhas criações. Acima de tudo, mantenho um princípio absoluto e sem concessões: minhas atividades nunca devem causar dano a ninguém. Este é o ponto de partida de cada decisão que tomo."
+    }
+  },
+  "research": {
+    "heading": "Pesquisa",
+    "driving": {
+      "title": "Direção autônoma e comportamento de direção",
+      "description": "Investigo como os seres humanos dirigem e como podem coexistir com sistemas de direção autônoma. Combinando simuladores de direção, rastreamento ocular, EEG e medições fisiológicas, trabalho na modelagem do comportamento de direção humano e na melhoria da aceitação de veículos autônomos.",
+      "keywords": ["IHC", "Direção humana", "Veículos autônomos", "Ciências cognitivas"]
+    },
+    "humanities": {
+      "title": "Abordagem humanística para a adoção da direção autônoma",
+      "description": "A implementação social da tecnologia de direção autônoma não pode ser resolvida apenas pela engenharia. Integrando conhecimentos da psicologia social, da história e da IA, busco elucidar os mecanismos pelos quais as pessoas formam atitudes em relação à direção autônoma e os fatores que influenciam essas atitudes."
+    },
+    "health": {
+      "title": "Informática em saúde (pesquisa pessoal)",
+      "description": "Estou conduzindo uma pesquisa pessoal utilizando dados biométricos do SOXAI Ring para examinar a relação entre o uso de sauna e o sono por meio de um protocolo N-of-1. Utilizando a variabilidade da frequência cardíaca (VFC) como métrica principal, busco capturar quantitativamente as mudanças fisiológicas provocadas por comportamentos cotidianos de saúde.",
+      "cta": "Procurando colaboradores de pesquisa"
+    }
+  },
+  "works": {
+    "heading": "Projetos",
+    "items": {
+      "hitoiro": {
+        "title": "Hitoiro",
+        "description": "Um aplicativo de autocuidado que registra emoções como cores. Oferece uma experiência de aprofundamento do autoconhecimento ao refletir visualmente sobre os sentimentos diários.",
+        "stack": "React + Vite / Firebase / Stripe / Claude API"
+      },
+      "bwm": {
+        "title": "Better Waseda Moodle Kai",
+        "description": "Uma extensão Chrome que melhora a usabilidade do LMS da Universidade Waseda, o Waseda Moodle.",
+        "stack": "Chrome Extension / Vercel / Stripe"
+      },
+      "soxai": {
+        "title": "SOXAI Health Intelligence",
+        "description": "Um painel de saúde que visualiza os dados do SOXAI Ring. Oferece uma visão geral das tendências de sono, atividade e estresse.",
+        "stack": "React / Recharts / Node.js"
+      },
+      "workguard": {
+        "title": "WorkGuard",
+        "description": "Uma ferramenta que detecta e visualiza estruturas de trabalho abusivas. Fornece informações para proteger os direitos dos trabalhadores.",
+        "stack": "React"
+      },
+      "idoki": {
+        "title": "idoki",
+        "description": "Um aplicativo que mede a relação entre movimento e emoção. Utiliza as escalas DAR-3 / DAR-5 para explorar a correlação entre localização e humor.",
+        "stack": "React / DAR-3 / DAR-5"
+      }
+    }
+  },
+  "services": {
+    "heading": "Serviços",
+    "research": {
+      "title": "Colaboração em pesquisa e consultoria",
+      "description": "Aceito projetos de pesquisa colaborativa e consultoria em IHC, direção autônoma, informática em saúde e ciências cognitivas.",
+      "format": "Consulta online (primeiros 30 minutos gratuitos)",
+      "cta": "Contato"
+    },
+    "development": {
+      "title": "Desenvolvimento de apps com IA e web",
+      "description": "Realizo planejamento e desenvolvimento de aplicativos e sites utilizando React, Next.js, Claude API e mais.",
+      "pricing": "Preço: orçamento necessário",
+      "cta": "Solicitar orçamento"
+    },
+    "note": {
+      "title": "Artigos no Note e assinatura mensal",
+      "description": "Ofereço artigos pagos e assinaturas mensais sobre o tema da aplicação do conhecimento acadêmico, IHC e vida cotidiana.",
+      "sponsor": "Patrocinadores também são bem-vindos",
+      "cta": "Ler no Note"
+    }
+  },
+  "contact": {
+    "heading": "Contato",
+    "description": "Para dúvidas sobre pesquisa, desenvolvimento ou consultoria, entre em contato pelo formulário abaixo ou por e-mail.",
+    "form": {
+      "name": "Nome",
+      "email": "E-mail",
+      "subject": "Assunto",
+      "message": "Mensagem",
+      "submit": "Enviar",
+      "success": "Sua mensagem foi enviada. Obrigado.",
+      "error": "Falha no envio. Por favor, entre em contato diretamente por e-mail."
+    }
+  },
+  "footer": {
+    "copyright": "© {year} Kiminobu Sato"
+  }
+}
