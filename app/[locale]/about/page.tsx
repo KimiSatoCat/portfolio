@@ -22,21 +22,9 @@ export default function AboutPage() {
       </FadeIn>
 
       {/* Timeline */}
-      <section className="mb-20 sm:mb-30">
+      <section>
         <Timeline />
       </section>
-
-      {/* Values */}
-      <FadeIn>
-        <section>
-          <h2 className="heading-jp text-heading-lg text-kin-gold mb-8">
-            {t("values.heading")}
-          </h2>
-          <p className="text-body-lg text-washi-white/70 leading-[2]">
-            {t("values.text")}
-          </p>
-        </section>
-      </FadeIn>
     </div>
   );
 }

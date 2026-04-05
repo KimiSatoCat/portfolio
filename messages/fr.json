@@ -26,17 +26,13 @@
         "description": "Participation aux opérations de secours en mer et aux exercices internationaux conjoints. Acquisition d'une expérience directe en gestion de crise et en coopération multinationale en première ligne de la sécurité maritime."
       },
       "wasedaUndergrad": {
-        "period": "Université Waseda, Faculté des sciences humaines",
+        "period": "Université Waseda, Faculté des Sciences Humaines, Département d'Informatique Humaine",
         "description": "Diplômé en trois ans (graduation anticipée). Lauréat de la Bourse commémorative Okuma (sélectionné 3 années consécutives). Membre du Network Information Systems Laboratory. Étude de la cognition humaine, du comportement et de la société dans un cadre interdisciplinaire."
       },
       "wasedaGrad": {
         "period": "Université Waseda, École doctorale des sciences humaines (Master)",
         "description": "Actuellement inscrit. Membre du Network Information Systems Laboratory. Recherche sur la conduite autonome et le comportement humain, centrée sur l'Interaction Homme-Machine (IHM)."
       }
-    },
-    "values": {
-      "heading": "Philosophie et valeurs",
-      "text": "Au fondement de mon travail se trouve un engagement indéfectible envers le droit et l'éthique. Je ne formule aucune affirmation sans preuve académique, et j'aborde chaque sujet à travers des perspectives interdisciplinaires et multiples. La perspective IHM — une philosophie de conception qui place l'humain au centre de l'intersection entre les personnes et la technologie — est un principe qui traverse non seulement mes recherches mais l'ensemble de mes créations. Par-dessus tout, je maintiens un principe absolu sans compromis : mes activités ne doivent jamais nuire à quiconque. Cela constitue le point de départ de chacune de mes décisions."
     }
   },
   "research": {

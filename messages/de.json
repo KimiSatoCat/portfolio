@@ -26,17 +26,13 @@
         "description": "Einsatz in der maritimen Katastrophenhilfe und internationalen Gemeinschaftsübungen. Sammelte praktische Erfahrungen im Krisenmanagement und in multinationaler Zusammenarbeit an vorderster Front der maritimen Sicherheit."
       },
       "wasedaUndergrad": {
-        "period": "Waseda-Universität, Fakultät für Humanwissenschaften",
+        "period": "Waseda-Universität, Fakultät für Humanwissenschaften, Abteilung für Humaninformatik",
         "description": "Abschluss in drei Jahren (vorzeitiger Abschluss). Erhalt des Okuma-Gedächtnisstipendiums (3 Jahre in Folge ausgewählt). Mitglied des Network Information Systems Laboratory. Studium der menschlichen Kognition, des Verhaltens und der Gesellschaft in einem interdisziplinären Rahmen."
       },
       "wasedaGrad": {
         "period": "Waseda-Universität, Graduiertenschule für Humanwissenschaften (Master)",
         "description": "Derzeit eingeschrieben. Mitglied des Network Information Systems Laboratory. Forschung zu autonomem Fahren und menschlichem Verhalten mit Schwerpunkt auf Mensch-Computer-Interaktion (HCI)."
       }
-    },
-    "values": {
-      "heading": "Philosophie & Werte",
-      "text": "Die Grundlage meiner Arbeit bildet ein unerschütterliches Bekenntnis zu Recht und Ethik. Ich stelle keine Behauptungen auf, die nicht durch wissenschaftliche Evidenz gestützt werden, und betrachte jedes Thema aus interdisziplinären, multiperspektivischen Blickwinkeln. Die HCI-Perspektive — eine Designphilosophie, die den Menschen in den Mittelpunkt der Schnittstelle zwischen Mensch und Technologie stellt — ist ein Prinzip, das sich nicht nur durch meine Forschung, sondern durch all meine Arbeiten zieht. Vor allem halte ich an einem absoluten Grundsatz kompromisslos fest: Meine Aktivitäten dürfen niemandem Schaden zufügen. Dies ist der Ausgangspunkt jeder meiner Entscheidungen."
     }
   },
   "research": {

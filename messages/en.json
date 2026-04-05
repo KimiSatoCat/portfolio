@@ -26,17 +26,13 @@
         "description": "Engaged in maritime disaster response and international joint training exercises. Gained firsthand experience in crisis management and multinational cooperation on the front lines of maritime safety."
       },
       "wasedaUndergrad": {
-        "period": "Waseda University, School of Human Sciences",
+        "period": "Waseda University, School of Human Sciences, Department of Human Informatics",
         "description": "Graduated in three years (early graduation). Received the Okuma Memorial Scholarship (selected 3 consecutive years). Member of the Network Information Systems Laboratory. Studied human cognition, behavior, and society in an interdisciplinary framework."
       },
       "wasedaGrad": {
         "period": "Waseda University, Graduate School of Human Sciences (Master's)",
         "description": "Currently enrolled. Member of the Network Information Systems Laboratory. Conducting research on autonomous driving and human behavior, centered on Human-Computer Interaction (HCI)."
       }
-    },
-    "values": {
-      "heading": "Philosophy & Values",
-      "text": "At the foundation of my work lies an unwavering commitment to law and ethics. I do not make claims unsupported by academic evidence, and I approach every subject through interdisciplinary, multi-perspective lenses. The HCI perspective — a design philosophy that places humans at the center of the intersection between people and technology — is a principle that runs through not only my research but all of my creations. Above all, I hold one absolute principle without compromise: my activities must never cause harm to anyone. This serves as the starting point for every decision I make."
     }
   },
   "research": {

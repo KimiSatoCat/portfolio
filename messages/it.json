@@ -26,17 +26,13 @@
         "description": "Coinvolto nelle operazioni di soccorso marittimo e nelle esercitazioni congiunte internazionali. Ho acquisito esperienza diretta nella gestione delle crisi e nella cooperazione multinazionale in prima linea nella sicurezza marittima."
       },
       "wasedaUndergrad": {
-        "period": "Università Waseda, Facoltà di Scienze Umane",
+        "period": "Università Waseda, Facoltà di Scienze Umane, Dipartimento di Informatica Umana",
         "description": "Laureato in tre anni (laurea anticipata). Vincitore della Borsa di studio commemorativa Okuma (selezionato per 3 anni consecutivi). Membro del Network Information Systems Laboratory. Studio della cognizione umana, del comportamento e della società in un quadro interdisciplinare."
       },
       "wasedaGrad": {
         "period": "Università Waseda, Scuola di specializzazione in Scienze Umane (Master)",
         "description": "Attualmente iscritto. Membro del Network Information Systems Laboratory. Ricerca sulla guida autonoma e sul comportamento umano, incentrata sull'Interazione Uomo-Computer (HCI)."
       }
-    },
-    "values": {
-      "heading": "Filosofia e valori",
-      "text": "Alla base del mio lavoro vi è un impegno incrollabile verso il diritto e l'etica. Non formulo affermazioni prive di evidenze accademiche e affronto ogni argomento attraverso prospettive interdisciplinari e molteplici. La prospettiva HCI — una filosofia progettuale che pone l'essere umano al centro dell'intersezione tra persone e tecnologia — è un principio che attraversa non solo la mia ricerca ma tutte le mie creazioni. Soprattutto, mantengo un principio assoluto senza compromessi: le mie attività non devono mai arrecare danno a nessuno. Questo è il punto di partenza di ogni mia decisione."
     }
   },
   "research": {
